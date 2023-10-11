@@ -1,0 +1,28 @@
+{
+  "transmission_mode": "False",
+  "fall_time_window_for_detection": 2,
+  "shake_time_window_for_detection": 2,
+
+
+  "adv_interval": 32,
+  "adv_timeout": 0,
+
+  "min_conn_interval": 6,
+  "max_conn_interval": 6,
+  "slave_latency": 0,
+  "conn_sup_timeout": 60,
+
+  "temp_int": 1000,
+  "press_int": 1000,
+  "humid_int": 1000,
+  "gas_mode_int": 1,
+  "color_int": 1000,
+
+  "step_int": 100,
+  "temp_comp": 100,
+  "sampling_frequency": 64,
+  "magnet_comp_int": 100,
+
+  "speaker_mode": "0x03",
+  "microphone_mode": "0x01"
+}

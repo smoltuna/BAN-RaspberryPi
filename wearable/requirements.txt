@@ -1,0 +1,3 @@
+bluepy
+kafka-python
+pika
