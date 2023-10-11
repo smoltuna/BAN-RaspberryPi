@@ -1,4 +1,4 @@
-# Wearable and Camera integration
+# Wearable 
 
 ## To deploy the streamlit webapp
 
