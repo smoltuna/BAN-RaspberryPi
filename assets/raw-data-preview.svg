@@ -1,0 +1,14 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Raw data preview">
+  <rect width="1200" height="420" fill="#0f172a" rx="18"/>
+  <text x="40" y="52" fill="#e2e8f0" font-family="Consolas, monospace" font-size="30" font-weight="700">Raw Data Preview (sample from wearable/recordings)</text>
+  <line x1="70" y1="340" x2="1130" y2="340" stroke="#334155" stroke-width="2"/>
+  <line x1="70" y1="100" x2="70" y2="340" stroke="#334155" stroke-width="2"/>
+
+  <polyline points="70,210 120,208 170,214 220,210 270,205 320,208 370,216 420,212 470,218 520,212 570,209 620,212 670,219 720,214 770,209 820,217 870,210 920,204 970,212 1020,206 1070,210 1120,206" fill="none" stroke="#22d3ee" stroke-width="4"/>
+  <polyline points="70,250 120,244 170,238 220,242 270,236 320,250 370,246 420,240 470,250 520,243 570,238 620,244 670,250 720,244 770,248 820,240 870,245 920,246 970,240 1020,248 1070,242 1120,246" fill="none" stroke="#f59e0b" stroke-width="4"/>
+  <polyline points="70,190 120,186 170,183 220,178 270,182 320,183 370,196 420,199 470,183 520,191 570,186 620,183 670,199 720,184 770,180 820,183 870,205 920,200 970,188 1020,183 1070,180 1120,178" fill="none" stroke="#a78bfa" stroke-width="4"/>
+
+  <text x="900" y="120" fill="#22d3ee" font-family="Consolas, monospace" font-size="20">acc_x</text>
+  <text x="900" y="145" fill="#f59e0b" font-family="Consolas, monospace" font-size="20">acc_y</text>
+  <text x="900" y="170" fill="#a78bfa" font-family="Consolas, monospace" font-size="20">acc_z</text>
+</svg>

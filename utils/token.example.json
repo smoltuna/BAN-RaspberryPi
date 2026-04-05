@@ -1,0 +1,9 @@
+{
+    "token_type": "Bearer",
+    "scope": "https://graph.microsoft.com/Files.ReadWrite.All",
+    "expires_in": 0,
+    "ext_expires_in": 0,
+    "access_token": "",
+    "refresh_token": "",
+    "id_token": ""
+}
